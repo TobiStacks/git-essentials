@@ -1,9 +1,3 @@
 # git-essentials
 
-## Deployment
-
-## Staging
-
-## How to use repo
-
-## Adding in some new text
+This will teach me how to use the git command line
